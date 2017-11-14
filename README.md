@@ -1,6 +1,8 @@
 # AC-Delco Alternator Windmill
 An AC Delco alternator Windmill for wind power generation
 
+![Windmill Picture](/pics/FrontComplete1.jpg)
+
 ## Introduction
 -
 
