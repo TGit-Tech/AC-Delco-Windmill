@@ -1,12 +1,21 @@
 # AC-Delco Alternator Windmill
 An AC Delco alternator Windmill for wind power generation
 
+*INCOMPLETE PROJECT - Use for experimental only*
+Tested in 40mph winds found that gear slippage and destruction occurs
+Need to Refactor the design for more stability
+However, Project has demonstrated the ability to charge @ ~ 20mph winds
+This includes self-excitement ( Actual power gained )
+
 ![Windmill Picture](/pics/FrontComplete1.jpg)
 
 ## Introduction
 -
 
 ## Specification
+- Takes 18-mph winds to barely start charging the battery
+- Which doesn't take into account the ( 4V @ 0.85A = 3.4W ) Idle waste
+- Can also run ( 3.7Vdc @ 0.62A = 2.294W )
 
 
 ## Raw Materials Needed
@@ -69,3 +78,5 @@ An AC Delco alternator Windmill for wind power generation
     - Use diodes to ensure Batt. feeds battery only when charge levels
     - Startup feed of 4.5Vdc diode into Pole #1
     - Using above, when wind increases excitement increases till battery can charge
+    - Need a Wind kick in start ( DC-DC Buck on battery w/Arduino turn on? )
+    - 
