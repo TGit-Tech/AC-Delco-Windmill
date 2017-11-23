@@ -7,10 +7,13 @@ Need to Refactor the design for more stability
 However, Project has demonstrated the ability to charge @ ~ 20mph winds
 This includes self-excitement ( Actual power gained )
 
-![Windmill Picture](/pics/FrontComplete1.jpg)
+![Windmill Picture](/pics/Assembly-Model.jpg)
+![Windmill Picture](/pics/Assembly-RightSide.jpg)
+
 
 ## Introduction
 -
+![Windmill Picture](/pics/FrontComplete1.jpg)
 
 ## Specification
 - Takes 18-mph winds to barely start charging the battery
@@ -39,6 +42,7 @@ This includes self-excitement ( Actual power gained )
 - Incomplete list; check back later
 
 ## Bolts Needed
+    - (1) 5/16" x 5" Coarse Bolt    Hub-Mount Cross Bolt
     - (1) 5/16" x 2" Bolt           For Hub Center
     - (2) 5/16" Nuts                For Double Nuts on Hub Bolt
     - (1) 5/16" x ?" Bolt           For Alternator Top Mount ( Alt Threaded Hole )
