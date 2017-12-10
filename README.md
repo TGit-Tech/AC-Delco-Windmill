@@ -65,8 +65,6 @@ This includes self-excitement ( Actual power gained )
     
 - Drill Bits
     - Drill bit for Top Alternator Bolt hole size 5/16" bolt
-    
-![Model Picture](/pics/Assembly-2.jpg)
 
 ## Knowledge obtained
 - Alternator excitement
