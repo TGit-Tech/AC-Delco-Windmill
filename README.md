@@ -1,12 +1,21 @@
 # AC-Delco Alternator Windmill
 An AC Delco alternator Windmill for wind power generation
 
+Release 2017.12.10-beta ( Pictures Below )
 *INCOMPLETE PROJECT - Use for experimental only*
 Tested in 40mph winds found that gear slippage and destruction occurs
 Need to Refactor the design for more stability
 However, Project has demonstrated the ability to charge @ ~ 20mph winds
 This includes self-excitement ( Actual power gained )
 
+Current Work
+*INCOMPLETE PROJECT - Use for experimental only*
+Current Work still needs to be built and tested.  This is the 5-blade design
+updated to handle high winds better by moving the alternator to behind the post
+and creating a 5-Gear system in which the miter gears will transfer to straight
+gears appropriately.  This also creates a 20:1 Ratio versus Version 2017.12.10-beta
+ which created a 15:1 Ration.
+ 
 ![Windmill Picture](/pics/Assembly-Model.jpg)
 ![Windmill Picture](/pics/Assembly-RightSide.jpg)
 
