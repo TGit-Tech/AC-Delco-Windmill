@@ -8,6 +8,8 @@ Need to Refactor the design for more stability
 However, Project has demonstrated the ability to charge @ ~ 20mph winds
 This includes self-excitement ( Actual power gained )
 
+![Windmill Picture](/pics/Assembly-Model.jpg)
+
 Current Work
 *INCOMPLETE PROJECT - Use for experimental only*
 Current Work still needs to be built and tested.  This is the 5-blade design
@@ -16,9 +18,7 @@ and creating a 5-Gear system in which the miter gears will transfer to straight
 gears appropriately.  This also creates a 20:1 Ratio versus Version 2017.12.10-beta
  which created a 15:1 Ration.
  
-![Windmill Picture](/pics/Assembly-Model.jpg)
-![Windmill Picture](/pics/Assembly-RightSide.jpg)
-
+![Windmill](/pics/Assembly.jpg)
 
 ## Introduction
 -
@@ -29,6 +29,12 @@ gears appropriately.  This also creates a 20:1 Ratio versus Version 2017.12.10-b
 - Which doesn't take into account the ( 4V @ 0.85A = 3.4W ) Idle waste
 - Can also run ( 3.7Vdc @ 0.62A = 2.294W )
 
+## Alternator Excitement Regulation
+In order to be efficient an Arduino ( Micro-controller ) must be used to adjust the alternators excitement level on the fly.  This was accomplished by designing a custom circuit detailed in the 'AltRegulator' folder.  The folder includes the Arduino Sketch last used to control excitement as well as KiCad design files.  The board was designed with the LinkSprite T8 CNC router using trace isolation. 
+
+- Link to [http://www.linksprite.com/wiki/index.php5?title=DIY_CNC_3_Axis_Engraver_Machine_PCB_Milling_Wood_Carving_Router_Kit_Arduino_Grbl]( CNC used. )
+
+![Regulator-Circuit](/pics/AltRegulator.jpg)
 
 ## Raw Materials Needed
 - (1) Free 12Vdc AC-Delco Auto Alternator [ $0 ]
